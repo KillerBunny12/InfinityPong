@@ -12,8 +12,8 @@ Touch right side of screen: Move paddle to the right.
  
 ### Screenshots
 
-  ![Screenshot-2021-04-06-19-02-23-573-com-Killer-Bunny-Games-Infinity-Pong.jpg](https://i.postimg.cc/tRtN8Gm4/Screenshot-2021-04-06-19-02-23-573-com-Killer-Bunny-Games-Infinity-Pong.jpg)
-  [![Screenshot-2021-04-06-19-02-29-225-com-Killer-Bunny-Games-Infinity-Pong.jpg](https://i.postimg.cc/XNzYjpPH/Screenshot-2021-04-06-19-02-29-225-com-Killer-Bunny-Games-Infinity-Pong.jpg)](https://postimg.cc/YjQH8qMY)
+  ![Titlescreen](https://i.postimg.cc/tRtN8Gm4/Screenshot-2021-04-06-19-02-23-573-com-Killer-Bunny-Games-Infinity-Pong.jpg)
+  [![Gameplay](https://i.postimg.cc/XNzYjpPH/Screenshot-2021-04-06-19-02-29-225-com-Killer-Bunny-Games-Infinity-Pong.jpg)](https://i.postimg.cc/XNzYjpPH/Screenshot-2021-04-06-19-02-29-225-com-Killer-Bunny-Games-Infinity-Pong.jpg)
 
 ## Authors
 
