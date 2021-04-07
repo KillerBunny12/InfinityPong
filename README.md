@@ -13,6 +13,7 @@ Touch right side of screen: Move paddle to the right.
 ### Screenshots
 
   ![Screenshot-2021-04-06-19-02-23-573-com-Killer-Bunny-Games-Infinity-Pong.jpg](https://postimg.cc/XXq5ymbR)
+  ![ScreenShot](https://postimg.cc/XXq5ymbR)
 
 ## Authors
 
