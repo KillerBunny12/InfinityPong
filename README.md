@@ -8,6 +8,7 @@ You control the paddle and make sure the ball stays inside the boundaries.
  ### Controls
  
 Touch left side of screen: Move paddle to the left.
+
 Touch right side of screen: Move paddle to the right.
  
 ### Screenshots
